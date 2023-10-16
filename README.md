@@ -1,8 +1,9 @@
 # Jake Zimmermann
 
-- **Phone:** 0754-512-8394
-- **Email:** jake_zimmermann@hotmail.co.uk
-- **LinkedIn:** [Jake Zimmermann LinkedIn](https://www.linkedin.com/in/jake-zimmermann-66776339/)
+[![Phone](https://img.shields.io/badge/Phone-07545--128--394-brightgreen)](tel:07545128394)
+[![Email](https://img.shields.io/badge/Email-jake__zimmermann%40hotmail.co.uk-red)](mailto:jake_zimmermann@hotmail.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jake%20Zimmermann-blue)](https://www.linkedin.com/in/jake-zimmermann-66776339/)
+
 
 <div style="overflow-x:auto;">
   <table>
