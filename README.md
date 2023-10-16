@@ -3,28 +3,74 @@
 - **Phone:** 0754-512-8394
 - **Email:** jake_zimmermann@hotmail.co.uk
 - **LinkedIn:** [Jake Zimmermann LinkedIn](https://www.linkedin.com/in/jake-zimmermann-66776339/)
-- **GitHub CV:** [JakeOtto GitHub](https://github.com/JakeOtto)
 
-## Development Tools & Languages
-
-- ![Visual Studio](https://example.com/visual-studio-icon.png) Visual Studio
-- ![Bluestacks](https://example.com/bluestacks-icon.png) Bluestacks
-- ![Eclipse](https://example.com/eclipse-icon.png) Eclipse
-- ![Glassfish](https://example.com/glassfish-icon.png) Glassfish
-- ![NetBeans](https://example.com/netbeans-icon.png) NetBeans
-- ![Slack](https://example.com/slack-icon.png) Slack
-- ![GitHub](https://example.com/github-icon.png) GitHub
-- ![Android Studio](https://example.com/android-studio-icon.png) Android Studio
-- ![GCP](https://example.com/gcp-icon.png) GCP
-- ![React](https://example.com/react-icon.png) React
-- ![Pytest](https://example.com/pytest-icon.png) Pytest
-
-- ![Java](https://example.com/java-icon.png) Java
-- ![JavaScript](https://example.com/javascript-icon.png) JavaScript
-- ![Python](https://example.com/python-icon.png) Python
-- ![CSS](https://example.com/css-icon.png) CSS
-- ![PHP](https://example.com/php-icon.png) PHP
-- ![Chialisp](https://example.com/chialisp-icon.png) Chialisp
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>Development Tools</th>
+      <th>Languages</th>
+    </tr>
+    <tr>
+      <td>
+        <div class="split-column">
+          <a href="https://visualstudio.com">
+            <img src="[https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg]" alt="Visual Studio" width="16"> Visual Studio
+          </a>
+          <a href="https://www.bluestacks.com">
+            <img src="https://www.bluestacks.com/favicon.ico" alt="Bluestacks" width="16"> Bluestacks
+          </a>
+          <a href="https://www.eclipse.org">
+            <img src="https://www.eclipse.org/eclipse.org/favicon.ico" alt="Eclipse" width="16"> Eclipse
+          </a>
+          <a href="https://glassfish.org">
+            <img src="https://glassfish.org/favicon.ico" alt="Glassfish" width="16"> Glassfish
+          </a>
+          <a href="https://netbeans.org">
+            <img src="https://netbeans.org/favicon.ico" alt="NetBeans" width="16"> NetBeans
+          </a>
+          <a href="https://slack.com">
+            <img src="https://slack.com/favicon.ico" alt="Slack" width="16"> Slack
+          </a>
+          <a href="https://github.com">
+            <img src="https://github.com/favicon.ico" alt="GitHub" width="16"> GitHub
+          </a>
+          <a href="https://developer.android.com/studio">
+            <img src="https://developer.android.com/favicon.ico" alt="Android Studio" width="16"> Android Studio
+          </a>
+          <a href="https://cloud.google.com">
+            <img src="https://cloud.google.com/favicon.ico" alt="GCP" width="16"> GCP
+          </a>
+          <a href="https://reactjs.org">
+            <img src="https://reactjs.org/favicon.ico" alt="React" width="16"> React
+          </a>
+          <a href="https://pytest.org">
+            <img src="https://pytest.org/favicon.ico" alt="Pytest" width="16"> Pytest
+          </a>
+        </div>
+      </td>
+      <td>
+        <a href="https://java.com">
+          <img src="https://java.com/favicon.ico" alt="Java" width="16"> Java
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://developer.mozilla.org/favicon.ico" alt="JavaScript" width="16"> JavaScript
+        </a>
+        <a href="https://python.org">
+          <img src="https://python.org/favicon.ico" alt="Python" width="16"> Python
+        </a>
+        <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+          <img src="https://www.w3.org/favicon.ico" alt="CSS" width="16"> CSS
+        </a>
+        <a href="https://www.php.net/">
+          <img src="https://www.php.net/favicon.ico" alt="PHP" width="16"> PHP
+        </a>
+        <a href="https://chialisp.com/">
+          <img src="https://chialisp.com/favicon.ico" alt="Chialisp" width="16"> Chialisp
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Personal Profile
 
