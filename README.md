@@ -77,6 +77,17 @@
 
 Currently a student of Makers Academy, studying Data Engineering while working as a WordPress developer for a few small-scale clients. I am hardworking with excellent problem-solving skills, strong observational and collaborative skills, and a quick hands-on learner. These skills have allowed me to pursue private projects both individually and within a small team. However, I am longing to develop a more substantial career in Data Engineering. My previous experience in management roles has led to well-developed teamwork skills and good communication habits. I am keen to help others in both work and community projects. I am also developing my AI interaction skills and have been a weekend greengrocer at Barnet Market since 2007, which has led to great client-facing communication skills and a fond, kind-hearted attitude towards community interaction.
 
+            
+                |  |     ╭─────────────────╮     |  |
+                |  |     | CV  stuff below |     |  |
+            /__________\ ╰─────────────────╯ /__________\
+             \        /                       \        /
+              \      /                         \      /
+               \    /                           \    /
+                \  /                             \  /
+                 \/                               \/
+
+
 ## Proof Of Treasure – Private project
 
 **January 2022 – Present**
