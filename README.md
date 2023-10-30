@@ -48,6 +48,9 @@
           <a href="https://pytest.org">
             <img src="https://pytest.org/favicon.ico" alt="Pytest" width="16"> Pytest
           </a>
+           <a href="https://flask.palletsprojects.com">
+            <img src="https://flask.palletsprojects.com/favicon.ico" alt="Flask" width="16"> Flask
+          </a>
         </div>
       </td>
       <td>
@@ -168,3 +171,4 @@ I will look to add a twillio component to this app, allowing SMS updates with ne
 - SQL and data processing
 - Data analysis and presenting insights
 - Data warehouse modeling
+- Git source control 
