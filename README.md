@@ -90,6 +90,19 @@ Currently a student of Makers Academy, studying Data Engineering while working a
                                        __/ |                                   __/ |              
                                       |___/                                   |___/               
 </pre>
+## Weighted Data
+
+https://github.com/JakeOtto/weighted_data
+
+- Purpose - 
+Building a data pipeline that performs ETL (Extract, Transform, Load) on a dataset.
+
+- Learning Objective -
+This project will help gain practical experience in data engineering by working with data ingestion, transformation, and loading processes.
+
+- Extentions - 
+I will look to revisit this project down the line as i feel it would be fun to build an anaylisis of these records against another event like development and abundance of anabolic steroids for example.
+
 ##  Coyote Tracker 
 
 https://github.com/JakeOtto/Coyotes_tracker
