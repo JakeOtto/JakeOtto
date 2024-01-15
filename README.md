@@ -184,4 +184,7 @@ I will look to add a twillio component to this app, allowing SMS updates with ne
 - SQL and data processing
 - Data analysis and presenting insights
 - Data warehouse modeling
-- Git source control 
+- Git source control
+- AWS Services, RDBs, EC2s, Lambda, S3 Buckets
+- Apache Airflow and DAG design
+  
