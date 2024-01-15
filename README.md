@@ -3,7 +3,7 @@
 [![Phone](https://img.shields.io/badge/Phone-07545--128--394-brightgreen)](tel:07545128394)
 [![Email](https://img.shields.io/badge/Email-jake__zimmermann%40hotmail.co.uk-red)](mailto:jake_zimmermann@hotmail.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jake%20Zimmermann-blue)](https://www.linkedin.com/in/jake-zimmermann-66776339/)
-[![CV](https://img.shields.io/badge/View%20CV-PDF-yellow?style=flat-square)]([https://github.com/JakeOtto/JakeOtto/blob/main/CV%20-%20Jake%20Zimmermann%202023.pdf](https://github.com/JakeOtto/JakeOtto/blob/main/CV%20-%20Jake%20Zimmermann%202024.pdf))
+[![CV](https://img.shields.io/badge/View%20CV-PDF-yellow?style=flat-square)](https://github.com/JakeOtto/JakeOtto/blob/main/CV%20-%20Jake%20Zimmermann%202024.pdf))
 
 
 <div style="overflow-x:auto;">
